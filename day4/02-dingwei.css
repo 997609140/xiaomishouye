@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.din1 {
+	width: 500px;
+	height: 100px;
+    background-color: green;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    border: 1px solid red;
+    z-index: 10;
+}
+.din {
+	width: 500px;
+	height: 900px;
+    background-color: pink;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    border: 1px solid red;
+    }
+.juedui {
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+	position:absolute; 
+	left: 50px;
+	top: 50px;
+}
+.juedui1 {
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+	position:absolute; 
+	left: 150px;
+	top: 50px;
+}
